@@ -3,5 +3,6 @@
 
 npm install para dep.
 
-Informar conexao do banco em connectDB
+Informar conexao do banco em DbConnect
+
 npm run dev para rodar. 
