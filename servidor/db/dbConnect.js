@@ -1,7 +1,7 @@
 import { MongoClient } from "mongodb";
 
 const cliente = new MongoClient(
-  "mongodb+srv://root:ribeiro863@websocketribeiro.xpfan1g.mongodb.net/?retryWrites=true&w=majority"
+  "#INFORMAR O LINK DE CONEXAO#"
 );
 
 let documentosColecao, usuariosColecao;
